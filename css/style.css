@@ -1,0 +1,17 @@
+* {
+  font-family: 'Oswald', sans-serif;
+  font-weight: normal;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-image: url(../img/tweed_@2X.png);
+}
+
+#parent {
+  font-size: 300%;
+  line-height: 500px;
+  color: #00FF99;
+  text-shadow: 1px 2px #003300;
+}
